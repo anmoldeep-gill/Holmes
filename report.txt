@@ -1,0 +1,5 @@
+--- Student Grade Analysis Report ---
+Total Students: 3
+Average Grade: 76.67
+Highest Grade: 100
+Lowest Grade: 50
